@@ -1,11 +1,3 @@
-Enjoy working with or in the following tech "stacks":
+python, javascript, react, and svelte
 
-- python data science stack 🐍
-    - pytorch, keras
-    - matplotlib, pandas, numpy
-- javascript 🕸️
-    - react, svelte
-    - html/css
-      - css-only animations
-    - node.js
-- graphql
+want to learn rust at some point, and maybe scala
