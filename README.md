@@ -1,6 +1,6 @@
 
 Hi 👋 
 
-I work with React, and I'm trying to learn Elixir & Phoenix. I occasionally enjoy doing some Python stuff. Big (neo) vim fan. I want to learn SolidJS, and do some projects in Svelte.
-
-Let's pair up for a project! 🖌️
+I'm multi-faceted web developer looking to create useful and fun software. 
+I am mainly a *Typescript developer* working with React and SolidJS. I like to use Elixir and Python for backend logic.
+I also have experience with AWS systems ☁️
