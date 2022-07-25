@@ -6,6 +6,6 @@
 </div>
 
 <div>
-  <h1> Reach me on Twitter <a href="twitter.com/flexgambit"> <img src="./twitter.svg" height="50" width="50"/> </a> </h1>
+  <h1> Reach me on Twitter <a href="https://www.twitter.com/flexgambit"> <img src="./twitter.svg" height="50" width="50"/> </a> </h1>
 </div>
 
