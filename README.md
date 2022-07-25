@@ -6,7 +6,6 @@
   <img src="./phoenix.svg" width="50" height="50"/>
 </div>
 
-<div>
-  <h1> Reach me on Twitter <a href="https://www.twitter.com/flexgambit"> <img src="./twitter.svg" height="50" width="50"/> </a> </h1>
-</div>
+## You can reach me on [the bird app](https://www.twitter.com/flexgambit) 
+<div><a href="https://www.twitter.com/flexgambit"> <img src="./twitter.svg" height="25" width="25"/> </a> </div>
 
