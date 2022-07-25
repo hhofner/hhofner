@@ -1,8 +1,9 @@
+## I try to use the below
 <div>
-  <img src="./react.svg" width="120" height="120"/>
-  <img src="./aws.svg" width="120" height="120"/>
-  <img src="./svelte-icon.svg" width="120" height="120"/>
-  <img src="./phoenix.svg" width="120" height="120"/>
+  <img src="./react.svg" width="50" height="50"/>
+  <img src="./aws.svg" width="50" height="50"/>
+  <img src="./svelte-icon.svg" width="50" height="50"/>
+  <img src="./phoenix.svg" width="50" height="50"/>
 </div>
 
 <div>
