@@ -1,4 +1,3 @@
-## I try to use the below
 <div>
   <img src="./react.svg" width="50" height="50"/>
   <img src="./aws.svg" width="50" height="50"/>
