@@ -1,7 +1,8 @@
 ```json
 {
   "name": "Hans Hofner",
-  "goal": "Fun, useful and quality software"
+  "goal": "Fun, useful and quality software",
+  "contact": "hhofner [at] google"
 }
 ```
 
