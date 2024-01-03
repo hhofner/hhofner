@@ -2,7 +2,7 @@
 {
   "name": "Hans Hofner",
   "goal": "Fun, useful and quality software", 
-  "contact": "hhofner [at] google"
+  "contact": "hhofner [at] google (dot) com"
 }
 ```
 
